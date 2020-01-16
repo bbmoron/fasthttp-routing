@@ -1,4 +1,4 @@
-module github.com/jackwhelpton/fasthttp-routing/v2
+module github.com/rmnoff/fasthttp-routing/v2
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
